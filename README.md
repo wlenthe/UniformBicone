@@ -42,3 +42,6 @@ Inversion symmetry for sphere / ball maps can be achieved by either doubling the
 |Polar Angle |Azimuthal Angle |
 |:---:|:---:|
 |![four disk legend polar](legends/disk/inv/four_p.png) |![four disk legend azimuthal](legends/disk/inv/four_a.png) |
+
+### Disk Test Singal Animation
+![Alternating Polar and Azimuthal Ripples](legends/disk/4k.mp4)
