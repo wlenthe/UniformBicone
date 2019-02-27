@@ -37,6 +37,7 @@
 #include <type_traits>//is_floating_point
 #include <stdexcept>//out_of_range
 #include <functional>//function
+#include <vector>
 
 #include "colorspace.hpp"//luv2rgb
 
