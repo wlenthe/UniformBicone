@@ -11,8 +11,7 @@ Disk, sphere, and ball color maps are based on:
 
 [submitted paper](link to paper)
 
-I was never able to get this work accepted, but if you use it for PLM please consider citing
-[Jin, Ke-Wie and De Graef, Marc. "c-Axis orientation determination of alpha-titanium using Computational Polarized Light Microscopy." Material Characterization 167 (2020)](https://doi.org/10.1016/j.matchar.2020.110503)
+I was never able to get this work accepted for publication but have uploaded the draft manuscript, pleaseconsider citing this repository if you use it in a publication. If you use the work for PLM also consider [Jin, Ke-Wie and De Graef, Marc. "c-Axis orientation determination of alpha-titanium using Computational Polarized Light Microscopy." Material Characterization 167 (2020)](https://doi.org/10.1016/j.matchar.2020.110503)
 
 ### Colormaps
 
